@@ -1,4 +1,4 @@
 # git-practice
 Hello 
 <br>
-Author : Shariea Reza Nabil
+Author : Shariea Reza (Nabil)
